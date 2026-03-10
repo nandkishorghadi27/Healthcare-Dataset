@@ -10,6 +10,7 @@ The goal is to transform raw healthcare data into meaningful insights that can s
 
 ## Dataset Information
 Total Records: 55,500<br>
+<a href="healthcare_dataset_clean.csv" target="_blank">healthcare_dataset_clean.csv</a> <br>
 Columns Included:<br>
 1. Name<br>
 2. Age<br>
@@ -28,6 +29,7 @@ Columns Included:<br>
 15. Test Results<br>
 
 ## Business Questions Solved
+<a href="healthcare_dataset.pdf" target="_blank">healthcare_dashboard.pdf</a> <br><br>
 This project answers several healthcare analytics questions:<br>
 1. What are the most common medical conditions among patients?<br>
 2. Which admission type occurs most frequently?<br>
