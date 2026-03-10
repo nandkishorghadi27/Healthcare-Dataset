@@ -39,6 +39,9 @@ This project answers several healthcare analytics questions:<br>
 5. Which hospitals handle the most patients?<br>
 6. What percentage of test results are normal vs abnormal?<br>
 
+## Database 
+<a href="healthcare_database" target="_blank">healthcare_database</a> <br>
+
 ## Process
 This project demonstrates the following data analytics skills:<br>
 1. Data Cleaning<br>
