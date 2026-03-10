@@ -34,16 +34,16 @@ This project answers several healthcare analytics questions:<br>
 4.	How does patient age distribution look?<br>
 5.	Which hospitals handle the most patients?<br>
 6.	What percentage of test results are normal vs abnormal?<br>
-<br>
+
 ## What This Project Demonstrates
 This project demonstrates the following data analytics skills:<br>
-Data Cleaning<br>
-Data Transformation<br>
-SQL Query Writing<br>
-Data Visualization<br>
-Business Insight Generation<br>
-Dashboard Design<br>
-End-to-End Data Analytics Workflow<br>
+1. Data Cleaning<br>
+2. Data Transformation<br>
+3. SQL Query Writing<br>
+4. Data Visualization<br>
+5. Business Insight Generation<br>
+6. Dashboard Design<br>
+7. End-to-End Data Analytics Workflow<br>
 <br>
 ## Conclusion
 This healthcare analytics project highlights how raw healthcare data can be transformed into actionable insights using Excel, PostgreSQL, and Power BI.<br>
