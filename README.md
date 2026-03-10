@@ -2,6 +2,11 @@
 ## Project Objective
 This project focuses on analyzing a Healthcare Dataset containing 55,500 patient records to uncover insights related to medical conditions, hospital admissions, billing patterns, and patient demographics.<br>
 
+## Dashboard
+
+<img src="healthcare_dashboard.jpg" alt="healthcare Dashboard">
+
+
 ## Dataset used
 Total Records: 55,500<br>
 <a href="healthcare_dataset_clean.csv" target="_blank">healthcare_dataset_clean.csv</a> <br>
